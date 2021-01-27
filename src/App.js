@@ -10,7 +10,7 @@ import {
 
 export default function App() {
   return (
-    <Router basename="/react-router-test">
+    <Router basename="/react-router-test/">
       <div>
         <ul>
           <li>
